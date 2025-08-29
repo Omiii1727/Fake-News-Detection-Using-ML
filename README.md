@@ -15,7 +15,8 @@ This project applies Natural Language Processing (NLP) and Machine Learning to c
 ---
 
 ## 📊 Dataset
-We used the Fake News Detection dataset (True.csv & Fake.csv)).
+We used the Fake News Detection dataset (True.csv & Fake.csv).
+[Convert xlsx files into csv]
 
 - Contains labeled news articles
 - Labels: 1 = True, 0 = Fake
